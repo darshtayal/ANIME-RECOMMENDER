@@ -1,0 +1,14 @@
+2025-10-21 10:29:30,203 - INFO - Initializing Recommendation Pipeline
+2025-10-21 10:30:38,619 - INFO - PyTorch version 2.6.0 available.
+2025-10-21 10:30:38,619 - INFO - Duckdb version 1.2.1 available.
+2025-10-21 10:30:42,052 - INFO - Use pytorch device_name: cpu
+2025-10-21 10:30:42,052 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-21 10:30:54,818 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-21 10:30:57,275 - INFO - Pipeline Initialized Successfully
+2025-10-21 10:31:21,689 - INFO - Initializing Recommendation Pipeline
+2025-10-21 10:31:39,072 - INFO - PyTorch version 2.6.0 available.
+2025-10-21 10:31:39,081 - INFO - Duckdb version 1.2.1 available.
+2025-10-21 10:31:40,056 - INFO - Use pytorch device_name: cpu
+2025-10-21 10:31:40,056 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-21 10:31:48,049 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-21 10:31:49,445 - INFO - Pipeline Initialized Successfully
